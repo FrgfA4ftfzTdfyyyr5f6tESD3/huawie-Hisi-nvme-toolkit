@@ -1,0 +1,2 @@
+# HisiNve-Py requires only Python standard libraries (Python >= 3.8)
+# Zero external runtime dependencies!

@@ -1,0 +1,23 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Backups and binary dumps
+*.bak
+*.bak_*
+*.img
+*.bin
+*.dump
+sandbox_dump.json
+test_sandbox.img
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
